@@ -1,0 +1,10 @@
+Package: org.h2oc3.filetransfer
+Version: 1.0
+Name: FileTransfer for MyFile
+Depends: mobilesubstrate, libactivator
+Architecture: iphoneos-arm
+Author: Árpád Goretity (H2CO3) <arpad.goretity@gmail.com>
+Maintainer: Árpád Goretity (H2CO3) <arpad.goretity@gmail.com>
+Description: FileTransfer is a MyFile plugin whose purpose is to provide immediate, device-to-device file transfer via Wi-Fi.
+Depiction: http://apaczai.elte.hu/~13akga/donate/index.html
+
